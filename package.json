@@ -1,20 +1,20 @@
 {
-  "name": "@moontai0724/package-template",
+  "name": "@moontaiworks/express-openapi-typebox",
   "private": false,
   "publishConfig": {
     "access": "public"
   },
   "version": "0.0.0-pre",
-  "description": "An npm package template.",
+  "description": "Express + OpenAPI + TypeBox document generation & input validation by ajv.",
   "author": "moontai0724",
   "license": "UNLICENSED",
-  "homepage": "https://moontai0724.github.io/package-template",
+  "homepage": "https://moontaiworks.github.io/express-openapi-typebox",
   "bugs": {
-    "url": "https://github.com/moontai0724/package-template/issues"
+    "url": "https://github.com/moontaiworks/express-openapi-typebox/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moontai0724/package-template.git"
+    "url": "https://github.com/moontaiworks/express-openapi-typebox.git"
   },
   "keywords": [
     "package",
